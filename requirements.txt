@@ -1,0 +1,5 @@
+exchange-calendars==4.13.3
+matplotlib==3.11.2
+pandas>=2.2,<3
+jupyterlab>=4.4,<5
+nbconvert>=7.16,<8
